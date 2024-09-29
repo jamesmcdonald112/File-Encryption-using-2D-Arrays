@@ -5,6 +5,7 @@
 ### Description
 This Java application encrypts and decrypts text using the ADFGVX cipher. It was developed for the H.Dip. in Science (Software Development) - Object-Oriented Software Development program, academic year 2023.
 
+## Final Module Grade: 94%
 ### To Run
 1. **Java Installation**: Ensure Java 19.0.2 or higher is installed.
 2. **Download and Extract**: Download the .zip file and extract it to a suitable location.
